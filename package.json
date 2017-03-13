@@ -1,0 +1,23 @@
+{
+  "name": "dding-rpc",
+  "version": "0.0.1",
+  "description": "this is a rpc for dding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny880518/rpc.git"
+  },
+  "keywords": [
+    "dding",
+    "rpc"
+  ],
+  "author": "Slee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunny880518/rpc/issues"
+  },
+  "homepage": "https://github.com/sunny880518/rpc#readme"
+}
