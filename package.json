@@ -1,5 +1,5 @@
 {
-  "name": "ddrpc",
+  "name": "slee-rpc",
   "version": "0.0.1",
   "description": "this is a rpc for dding",
   "main": "index.js",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/sunny880518/rpc#readme",
   "dependencies": {
+    "thrift": "^0.10.0",
     "uuid": "^3.0.1",
     "zmq": "^2.15.3"
   },
