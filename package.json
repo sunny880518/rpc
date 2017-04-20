@@ -1,5 +1,5 @@
 {
-  "name": "dding-rpc",
+  "name": "ddrpc",
   "version": "0.0.1",
   "description": "this is a rpc for dding",
   "main": "index.js",
@@ -16,8 +16,17 @@
   ],
   "author": "Slee",
   "license": "MIT",
+  "bin": "bin/slee",
   "bugs": {
     "url": "https://github.com/sunny880518/rpc/issues"
   },
-  "homepage": "https://github.com/sunny880518/rpc#readme"
+  "homepage": "https://github.com/sunny880518/rpc#readme",
+  "dependencies": {
+    "uuid": "^3.0.1",
+    "zmq": "^2.15.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  }
 }
